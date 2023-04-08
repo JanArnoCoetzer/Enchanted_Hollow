@@ -39,9 +39,30 @@
 				"Android",
 				"HoloLens"
 			]
+		},
+		{
+			"Name": "OculusVR",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Android"
+			]
+		},
+		{
+			"Name": "OculusAudio",
+			"Enabled": true
+		},
+		{
+			"Name": "SteamVR",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux"
+			]
 		}
 	],
 	"TargetPlatforms": [
-		"Windows"
+		"Windows",
+		"HoloLens"
 	]
 }
