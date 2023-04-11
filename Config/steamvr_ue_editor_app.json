@@ -1,18 +1,3 @@
-{
-	"source": "UE",
-	"applications": [
-		{
-			"app_key": "application.generated.ue.enchanted_hollow-24887336.unrealeditor.exe",
-			"launch_type": "url",
-			"url": "steam://launch/",
-			"action_manifest_path": "E:/UnrealProjects/Enchanted_Hollow/Config/SteamVRBindings/steamvr_manifest.json",
-			"strings":
-			{
-				"en_us":
-				{
-					"name": "Enchanted_Hollow-24887336 [UE Editor]"
-				}
-			}
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:371e50d6da7e8ebb4282064122795039a6f0afbfb1eb5ae702b0ee83aa6654f5
+size 418
